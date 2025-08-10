@@ -1,11 +1,12 @@
-# AspNetCore_OnlineKutuphaneOtomasyon
- 
----
+- **[ASP.NET Core 7.0 Online Kütüphane Otomasyon Web Geliştirme Kursu (Udemy)](https://www.udemy.com/course/webgelistirme/?couponCode=KEEPLEARNING)**  
 
-- **[Web Geliştirme Kursu (Udemy)](https://www.udemy.com/course/webgelistirme/?couponCode=KEEPLEARNING)**  
-  HTML, CSS, JavaScript, Bootstrap ve temel web geliştirme konularında kapsamlı bir eğitim tamamladım.  
-  ✅ HTML ile semantik sayfa yapısı oluşturma  
-  ✅ CSS ile responsive ve modern tasarımlar geliştirme  
-  ✅ JavaScript ile etkileşimli web sayfaları  
-  ✅ Bootstrap ile hızlı arayüz geliştirme
+Bu proje, Udemy’de tamamladığım **ASP.NET Core Web Geliştirme** kursu kapsamında geliştirilmiştir.  
+Kurs boyunca öğrendiğim başlıca konular:
+- .NET Web uygulama geliştirme temelleri  
+- MVC (Model-View-Controller) mimarisi ile adım adım web geliştirme  
+- Katmanlı mimari yapıların uygulanması  
+- ASP.NET Core Identity ile Login, Logout, Register sayfalarının oluşturulması  
+- Authentication (Kimlik Doğrulama) ve Authorization (Yetkilendirme) işlemleri  
+- Kullanıcı yetkilendirme ve rol yönetimi  
+- Full-stack dinamik web sitesi geliştirme 
 
